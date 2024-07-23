@@ -1,6 +1,6 @@
 <img src="assets/img/dio.svg" style="width:135px;"/>
 
-<a href="Readme.md">English</a>
+<a href="Readme-pt.md">Portuguese</a>
 
 # Project delivery - Creating a web portfolio | DIO
 
@@ -8,9 +8,9 @@ This project is a fully functional web portfolio application built using js. The
 
 ## Technologies Used
 
--JS
--CSS
--HTML
+- JS
+- CSS
+- HTML
 - JSON
 
 ## How to execute the project
