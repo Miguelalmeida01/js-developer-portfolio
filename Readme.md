@@ -1,44 +1,36 @@
 <img src="assets/img/dio.svg" style="width:135px;"/>
 
-<a href="Readme-pt.md">Portuguese</a>
+<a href="Readme.md">English</a>
 
 # Project delivery - Creating a web portfolio | DIO
 
-This project is a fully functional blog application built using Angular. The main objective of this project is to demonstrate how to build intelligent components and effectively organize your Angular project using the tools and resources provided by the Angular framework.
+This project is a fully functional web portfolio application built using js. The main objective of this project is to demonstrate how to build components effectively in your project.
 
 ## Technologies Used
 
-- Angular
+-JS
 -CSS
 -HTML
+- JSON
 
-## How to Execute the Project
+## How to execute the project
 
 1. Clone the repository:
 
  ```bash
- git clone https://github.com/fabiocasadossites/desafio-angular-blog-dio.git
+ git clone https://github.com/Miguelalmeida01/js-developer-portfolio.git
  ```
 
-2. Navigate to the project directory:
+2. Access the project in the browser:
 
- ```bash
- cd repository-name
- ```
+ Using the PHPServer vscode extension
 
-3. Install dependencies:
+ <img src="data/imgs/Captura_php.png" style="width:350px;border-radius: 8px;"/>
 
- ```bash
- npm install
- ```
+## Web project
 
-4. Start the development server:
-
- ```bash
- ng serves
- ```
-
-5. Access the project in the browser:
- ```bash
- http://localhost:4200
- ```
+ <img src="data/imgs/Captura1.png" style="border-radius: 8px;"/>
+ <img src="data/imgs/Captura2.png" style="border-radius: 8px;"/>
+ <img src="data/imgs/Captura3.png" style="border-radius: 8px;"/>
+ <img src="data/imgs/Captura4.png" style="border-radius: 8px;"/>
+ <img src="data/imgs/Captura5.png" style="border-radius: 8px;"/>
