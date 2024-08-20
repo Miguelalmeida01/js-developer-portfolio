@@ -9,8 +9,10 @@
 }
 
 body {
-    background-color: #000;
+    background: linear-gradient(280deg, rgb(30, 8, 227) 0%, rgb(23, 23, 20) 60%);
+    background-repeat: no-repeat;
     color: #fff;
+    min-height: 900px;
 }
 
 a {
@@ -31,8 +33,7 @@ a:hover {
 
 .main::before,
 .main::after {
-    content: '';
-    background-image: url('../img/background.svg');
+    content: ''; 
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
