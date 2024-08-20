@@ -29,8 +29,5 @@ Este projeto é uma aplicação de portfolio web totalmente funcional construíd
 
 ## Projeto na web
 
-   <img src="data/imgs/Captura1.png" style="border-radius: 8px;"/>
-   <img src="data/imgs/Captura2.png" style="border-radius: 8px;"/>
-   <img src="data/imgs/Captura3.png" style="border-radius: 8px;"/>
-   <img src="data/imgs/Captura4.png" style="border-radius: 8px;"/>
-   <img src="data/imgs/Captura5.png" style="border-radius: 8px;"/>
+ 
+ [Back](https://github.com/Miguelalmeida01/js-developer-portfolio/blob/main/Readme-pt.md#entrega-de-projeto---criando-um-portif%C3%B3lio-web--dio)

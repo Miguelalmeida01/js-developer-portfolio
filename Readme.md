@@ -29,8 +29,5 @@ This project is a fully functional web portfolio application built using js. The
 
 ## Web project
 
- <img src="data/imgs/Captura1.png" style="border-radius: 8px;"/>
- <img src="data/imgs/Captura2.png" style="border-radius: 8px;"/>
- <img src="data/imgs/Captura3.png" style="border-radius: 8px;"/>
- <img src="data/imgs/Captura4.png" style="border-radius: 8px;"/>
- <img src="data/imgs/Captura5.png" style="border-radius: 8px;"/>
+ 
+[Back](https://github.com/Miguelalmeida01/js-developer-portfolio?tab=readme-ov-file#project-delivery---creating-a-web-portfolio--dio)
