@@ -30,4 +30,8 @@ This project is a fully functional web portfolio application built using js. The
 ## Web project
 
  
+
+https://github.com/user-attachments/assets/21f8f256-0235-481a-827f-6fb4148c0645
+
+
 [Back](https://github.com/Miguelalmeida01/js-developer-portfolio?tab=readme-ov-file#project-delivery---creating-a-web-portfolio--dio)
