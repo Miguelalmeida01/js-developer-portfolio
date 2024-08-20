@@ -30,4 +30,8 @@ Este projeto é uma aplicação de portfolio web totalmente funcional construíd
 ## Projeto na web
 
  
+
+https://github.com/user-attachments/assets/12df8435-49c7-4d3a-9514-8f0de1adb51f
+
+
  [Back](https://github.com/Miguelalmeida01/js-developer-portfolio/blob/main/Readme-pt.md#entrega-de-projeto---criando-um-portif%C3%B3lio-web--dio)
